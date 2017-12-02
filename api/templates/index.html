@@ -18,12 +18,22 @@
     <!-- <link href="the-big-picture.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="{{ url_for('static',filename='styles/the-big-picture.css') }}">
 
+    <style>
+    body {
+      background: url('http://www.hotelgrandesita.com/admin/app/webroot/imageupload/1471072487-Pichola-Lake.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+    }
+    </style>
+
   </head>
 
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
+    <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
       <div class="container">
         <a class="navbar-brand" href="#">Start Bootstrap</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +58,7 @@
           </ul>
         </div>
       </div>
-    </nav>
+    </nav> -->
 
     <!-- Page Content -->
     <section>
@@ -56,10 +66,12 @@
         <div class="row">
           <div class="col-lg-4"></div>
           <div class="col-lg-4">
-            <h1 class="mt-5">The Big Picture</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates rerum eveniet sapiente repellat esse, doloremque quod recusandae deleniti nostrum assumenda vel beatae sed aut modi nesciunt porro quisquam voluptatem.</p>
+            <!-- <h1 class="mt-5">The Big Picture</h1> -->
+            <img src="static/logo.png" style="height:10%;margin-left:30%;margin-top:90px;" alt="">
+            <p style="margin-top:20px;color:#fff;text-align:center;font-size:20px;">Explore the huge architecture, palaces, lakes & every tourist place with <b>360 VR Go Through</b> experience. </p>
+            <a href="/fbuser" target="_blank"> <img src="http://curveradio.com/images/facebookLogin.png" style="width:100%;" alt=""> </a>
           </div>
-          <a href="/fbuser" target="_blank">Facebook Login</a>
+
           <div class="col-lg-4"></div>
         </div>
       </div>
