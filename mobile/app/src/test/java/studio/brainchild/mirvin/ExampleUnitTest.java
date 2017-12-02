@@ -1,4 +1,4 @@
-package com.mharovr.mharovr;
+package studio.brainchild.mirvin;
 
 import org.junit.Test;
 

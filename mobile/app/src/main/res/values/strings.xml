@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MharoVR</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="server_url">http://192.168.43.58/mirvin-app-backend/</string>
 </resources>

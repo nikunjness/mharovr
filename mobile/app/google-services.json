@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62679139920",
+    "project_id": "firebase-mirvin-archimages"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62679139920:android:00c53be932e6f872",
+        "android_client_info": {
+          "package_name": "studio.brainchild.mirvin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62679139920-acigtrcau7bmmo2565vksdhu7knvhg6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.brainchild.mirvin",
+            "certificate_hash": "36AC4BBE6C5573ABCAE96604D78857A4A8CBF701"
+          }
+        },
+        {
+          "client_id": "62679139920-sobisf05tlpt61u8u7vq9jur3rplb18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4Ofg4-IUHqcfg2iEY-YMVuUVV4ePMGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
