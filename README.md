@@ -16,7 +16,7 @@ Tourist can explore tourist places in city they are in and can take a VR tour us
 
 ## MharoVR Demo Video
 
-<iframe width="100%" height="100%" src="https://drive.google.com/file/d/16S5D0Qj1gjOGXXkqiJNiCTiPinPJo5tI/view?usp=sharing"></iframe>
+[![Watch the video](https://drive.google.com/file/d/16S5D0Qj1gjOGXXkqiJNiCTiPinPJo5tI/view?usp=sharing)]
 
 ## MharoVR Web Portal
 
