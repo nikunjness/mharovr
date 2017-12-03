@@ -1,6 +1,6 @@
 # MharoVR
 
-![MharoVR Logo](https://8dfe11cd.ngrok.io/static/logo.png)
+<img src="https://8dfe11cd.ngrok.io/static/logo.png" width="250px" height="250px"/>
 
 A project for Rajasthan Government Hackathon 
 
